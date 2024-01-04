@@ -10,7 +10,7 @@ enable the extension in gnome-tweak tool (you might need to log out and in to
 make is show up).
 
 	$ mkdir -p ~/.local/share/gnome-shell/extensions
-	$ git clone git://github.com/matthijskooijman/gnome-shell-more-keyboard-shortcuts \
+	$ git clone https://github.com/matthijskooijman/gnome-shell-more-keyboard-shortcuts.git \
 	  ~/.local/share/gnome-shell/extensions/more-keyboard-shortcuts@stderr.nl
 
 Alternatively, download a zip from github and use
