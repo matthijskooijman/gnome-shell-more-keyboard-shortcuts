@@ -1,5 +1,5 @@
 {
-        "shell-version": ["45", "46", "47"],
+        "shell-version": ["45", "46", "47", "48"],
         "uuid": "more-keyboard-shortcuts@stderr.nl",
         "name": "More keyboard shortcuts",
         "description": "Adds some additional keyboard shortcuts for navigating through windows",
